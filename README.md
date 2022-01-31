@@ -174,4 +174,4 @@ Note that this base fee should not replace or influence the percentage fee appli
 
 ## Tips and Hints
 
-For Subtask I, since the same input box must be used for both credit and gift card transactions, it's important to discern what type of transaction is meant to occur before deserializing the request. You might do this by adding a `TransactionType`field to the request, and checking to see if the request contains the transaction type you're looking for.
+For Subtask I, since the same input box must be used for both credit and gift card transactions, it's important to discern what type of transaction is meant to occur before deserializing the request. You might do this by adding a `TransactionType`field to the request, and checking to see if the request contains the transaction type you're looking for. However, there are many possibilities for acceptable solutions to this problem, and you are encouraged to think about the best course of action.

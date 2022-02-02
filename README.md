@@ -1,5 +1,7 @@
 # Datacap Systems, Inc. Software Engineer Applicant Assessment
 
+NOTE: You are expected to fork this repository and work on your own instance of it, rather than committing directly to this one. When submitting your project, please provide a link to your fork with all of your changes committed.
+
 ## Introduction
 This project, which will be referred to from this point on as the 'Simple Payment Processing App' (or SPPA for short), is intended to assess your ability to add functionality to an existing code base in a way that adheres to its present standard as best as possible. Such a task requires strong code reading and comprehension skills and a considerable amount of tact when modifying and adding code.
 
@@ -169,7 +171,7 @@ Note that this base fee should not replace or influence the percentage fee appli
 
 ## Deliverables
 + The source code of the modified project
-	+ Zipped archive or GitHub/GitLab repository share will suffice
+	+ Link to your fork of this project on GitHub (please ensure that it's public).
 + If you do not finish within the time limit, please submit what you have anyways
 
 ## Tips and Hints
